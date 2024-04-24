@@ -7,7 +7,6 @@ const ErrorPage = () => {
       <div className='center'>
         <Link to='/' classname="btn primary">Click to Start your Journey</Link>
         <h2>Welcome to My Blog Websited</h2>
-        <h4>All copyrights belongs to Brian Ong</h4>
       </div>
     </section>
   )
